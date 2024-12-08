@@ -1,4 +1,4 @@
-@Library('my-shared-library@main:java_app_vars/vars') _
+@Library('my-shared-library') _
 
 pipeline {
     agent any
